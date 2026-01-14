@@ -3,7 +3,7 @@
 ## 👋 Olá, eu sou Lucas Rodrigues Gomes
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 **Estagiário em Desenvolvimento / Desenvolvedor em Formação**  
+💻 ** Desenvolvedor em Formação**  
 📍 São João de Meriti – RJ, Brasil  
 
 Sou estudante de tecnologia com grande interesse em desenvolvimento de software. Busco uma oportunidade de estágio para aplicar meus conhecimentos, aprender com profissionais da área e evoluir tecnicamente por meio de projetos reais, sempre com foco em boas práticas e crescimento contínuo.
